@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\app",
+    "\\src\\main\\java\\data",
+    "\\src\\main\\java\\domain",
+    "\\src\\main\\java\\views"
+  ],
+  "SelectedNode": "\\src\\main\\java\\views\\MenuView.form",
+  "PreviewInSolutionExplorer": false
+}
