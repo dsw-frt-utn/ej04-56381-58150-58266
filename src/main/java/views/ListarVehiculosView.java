@@ -15,6 +15,7 @@ public class ListarVehiculosView extends javax.swing.JFrame {
     public ListarVehiculosView() {
         initComponents();
         listarVehiculos();
+        actualizarListado();
     }
     private void listarVehiculos(){
         ArrayList<VehiculoViewModel> vehiculos = Controlador.getVehiculos();
@@ -211,5 +212,10 @@ public class ListarVehiculosView extends javax.swing.JFrame {
     private javax.swing.JLabel totalConsumoElectricosValue;
     private javax.swing.JTable vehiculosGrid;
     // End of variables declaration//GEN-END:variables
+
+    public void actualizarListado() {
+    
+       listarVehiculos();
+}
 
 }

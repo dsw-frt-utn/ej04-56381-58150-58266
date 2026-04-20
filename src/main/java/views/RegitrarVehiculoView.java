@@ -26,6 +26,7 @@ public class RegitrarVehiculoView extends javax.swing.JFrame {
      * Creates new form RegitrarVehiculoView
      */
     private static ArrayList<Vehiculo> vehiculos = new ArrayList<>();
+    private ListarVehiculosView listarView;
     
     public static ArrayList<Vehiculo> getVehiculos(){
         return vehiculos;
@@ -37,7 +38,8 @@ public class RegitrarVehiculoView extends javax.swing.JFrame {
                 .findFirst();
     }
     
-    public RegitrarVehiculoView() {
+    public RegitrarVehiculoView(ListarVehiculosView listarView) {
+        this.listarView = listarView;
         initComponents();
         
         
@@ -313,7 +315,10 @@ public class RegitrarVehiculoView extends javax.swing.JFrame {
         if (jComboBoxTipos.getSelectedIndex()==1) {    
             if (extra >=0 && extra <100) {
                 VehiculoElectrico v = new VehiculoElectrico(patente, m, modelo, anio, cap, s, extra);
-                vehiculos.add(v);
+            Persistencia.getVehiculos().add(v);
+                listarView.actualizarListado();
+                
+               System.out.println("Cantidad de vehiculos: " + Persistencia.getVehiculos().size());
             }
         }
 
@@ -321,8 +326,11 @@ public class RegitrarVehiculoView extends javax.swing.JFrame {
             double consumo = Double.parseDouble(jTextFieldConsumo.getText());
             if (extra < 10) {
             VehiculoCombustible v = new VehiculoCombustible(patente, m, modelo, anio, cap, s, consumo, extra);
-            vehiculos.add(v);
+            Persistencia.getVehiculos().add(v);
+            listarView.actualizarListado();
+            System.out.println("Cantidad de vehiculos: " + Persistencia.getVehiculos().size());
             }
+   
         }        
     }//GEN-LAST:event_jButtonRegistrarActionPerformed
 
@@ -373,7 +381,7 @@ public class RegitrarVehiculoView extends javax.swing.JFrame {
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new RegitrarVehiculoView().setVisible(true);
+               
             }
         });
         

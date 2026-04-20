@@ -2,12 +2,16 @@ package app;
 
 import data.Persistencia;
 import java.util.InvalidPropertiesFormatException;
-import views.MenuView;
+import views.ListarVehiculosView;
+import views.RegitrarVehiculoView;
+
 
 public class Program {
     public static void main(String[] args) throws IllegalArgumentException, InvalidPropertiesFormatException {
         Persistencia.inicializar();
-        MenuView view = new MenuView();
-        view.setVisible(true);
+ListarVehiculosView listar = new ListarVehiculosView();
+RegitrarVehiculoView registrar = new RegitrarVehiculoView(listar);
+        listar.setVisible(true);
+        registrar.setVisible(true);
     }
 }
