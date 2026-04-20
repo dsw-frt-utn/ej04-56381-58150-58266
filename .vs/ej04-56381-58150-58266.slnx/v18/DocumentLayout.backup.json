@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lopez\\Documents\\DSW2026\\EJ04\\ej04-56381-58150-58266\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lopez\\Documents\\DSW2026\\EJ04\\ej04-56381-58150-58266\\src\\main\\java\\domain\\Marca.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\domain\\Marca.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lopez\\Documents\\DSW2026\\EJ04\\ej04-56381-58150-58266\\src\\main\\java\\views\\MenuView.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\views\\MenuView.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lopez\\Documents\\DSW2026\\EJ04\\ej04-56381-58150-58266\\src\\main\\java\\views\\RegitrarVehiculoView.form||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\views\\RegitrarVehiculoView.form||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lopez\\Documents\\DSW2026\\EJ04\\ej04-56381-58150-58266\\src\\main\\java\\app\\Program.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\app\\Program.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lopez\\Documents\\DSW2026\\EJ04\\ej04-56381-58150-58266\\src\\main\\java\\data\\Persistencia.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\data\\Persistencia.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lopez\\Documents\\DSW2026\\EJ04\\ej04-56381-58150-58266\\src\\main\\java\\views\\ListarVehiculosView.form||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\views\\ListarVehiculosView.form||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lopez\\Documents\\DSW2026\\EJ04\\ej04-56381-58150-58266\\src\\main\\java\\domain\\Sucursal.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\domain\\Sucursal.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lopez\\Documents\\DSW2026\\EJ04\\ej04-56381-58150-58266\\src\\main\\java\\domain\\Vehiculo.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\domain\\Vehiculo.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Marca.java",
+              "DocumentMoniker": "C:\\Users\\lopez\\Documents\\DSW2026\\EJ04\\ej04-56381-58150-58266\\src\\main\\java\\domain\\Marca.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\domain\\Marca.java",
+              "ToolTip": "C:\\Users\\lopez\\Documents\\DSW2026\\EJ04\\ej04-56381-58150-58266\\src\\main\\java\\domain\\Marca.java",
+              "RelativeToolTip": "src\\main\\java\\domain\\Marca.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-04-20T04:49:22.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuView.java",
+              "DocumentMoniker": "C:\\Users\\lopez\\Documents\\DSW2026\\EJ04\\ej04-56381-58150-58266\\src\\main\\java\\views\\MenuView.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\views\\MenuView.java",
+              "ToolTip": "C:\\Users\\lopez\\Documents\\DSW2026\\EJ04\\ej04-56381-58150-58266\\src\\main\\java\\views\\MenuView.java",
+              "RelativeToolTip": "src\\main\\java\\views\\MenuView.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-04-20T04:49:10.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegitrarVehiculoView.form",
+              "DocumentMoniker": "C:\\Users\\lopez\\Documents\\DSW2026\\EJ04\\ej04-56381-58150-58266\\src\\main\\java\\views\\RegitrarVehiculoView.form",
+              "RelativeDocumentMoniker": "src\\main\\java\\views\\RegitrarVehiculoView.form",
+              "ToolTip": "C:\\Users\\lopez\\Documents\\DSW2026\\EJ04\\ej04-56381-58150-58266\\src\\main\\java\\views\\RegitrarVehiculoView.form",
+              "RelativeToolTip": "src\\main\\java\\views\\RegitrarVehiculoView.form",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-20T04:48:42.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.java",
+              "DocumentMoniker": "C:\\Users\\lopez\\Documents\\DSW2026\\EJ04\\ej04-56381-58150-58266\\src\\main\\java\\app\\Program.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\app\\Program.java",
+              "ToolTip": "C:\\Users\\lopez\\Documents\\DSW2026\\EJ04\\ej04-56381-58150-58266\\src\\main\\java\\app\\Program.java",
+              "RelativeToolTip": "src\\main\\java\\app\\Program.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-04-20T04:47:28.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sucursal.java",
+              "DocumentMoniker": "C:\\Users\\lopez\\Documents\\DSW2026\\EJ04\\ej04-56381-58150-58266\\src\\main\\java\\domain\\Sucursal.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\domain\\Sucursal.java",
+              "ToolTip": "C:\\Users\\lopez\\Documents\\DSW2026\\EJ04\\ej04-56381-58150-58266\\src\\main\\java\\domain\\Sucursal.java",
+              "RelativeToolTip": "src\\main\\java\\domain\\Sucursal.java",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-04-20T04:26:10.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListarVehiculosView.form",
+              "DocumentMoniker": "C:\\Users\\lopez\\Documents\\DSW2026\\EJ04\\ej04-56381-58150-58266\\src\\main\\java\\views\\ListarVehiculosView.form",
+              "RelativeDocumentMoniker": "src\\main\\java\\views\\ListarVehiculosView.form",
+              "ToolTip": "C:\\Users\\lopez\\Documents\\DSW2026\\EJ04\\ej04-56381-58150-58266\\src\\main\\java\\views\\ListarVehiculosView.form",
+              "RelativeToolTip": "src\\main\\java\\views\\ListarVehiculosView.form",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-20T04:25:09.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vehiculo.java",
+              "DocumentMoniker": "C:\\Users\\lopez\\Documents\\DSW2026\\EJ04\\ej04-56381-58150-58266\\src\\main\\java\\domain\\Vehiculo.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\domain\\Vehiculo.java",
+              "ToolTip": "C:\\Users\\lopez\\Documents\\DSW2026\\EJ04\\ej04-56381-58150-58266\\src\\main\\java\\domain\\Vehiculo.java",
+              "RelativeToolTip": "src\\main\\java\\domain\\Vehiculo.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-04-20T04:25:05.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Persistencia.java",
+              "DocumentMoniker": "C:\\Users\\lopez\\Documents\\DSW2026\\EJ04\\ej04-56381-58150-58266\\src\\main\\java\\data\\Persistencia.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\data\\Persistencia.java",
+              "ToolTip": "C:\\Users\\lopez\\Documents\\DSW2026\\EJ04\\ej04-56381-58150-58266\\src\\main\\java\\data\\Persistencia.java",
+              "RelativeToolTip": "src\\main\\java\\data\\Persistencia.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-04-20T04:25:02.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
