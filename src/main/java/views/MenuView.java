@@ -10,12 +10,17 @@ package views;
  */
 public class MenuView extends javax.swing.JFrame {
 
+    
+     ListarVehiculosView listar = new ListarVehiculosView();
+    RegitrarVehiculoView registrar = new RegitrarVehiculoView(listar);
     /**
      * Creates new form MenuView
      */
     public MenuView() {
         initComponents();
     }
+
+       
 
     /**
      * This method is called from within the constructor to initialize the form.
@@ -83,14 +88,12 @@ public class MenuView extends javax.swing.JFrame {
 
     private void jMenuItemRegistrarActionPerformed(java.awt.event.ActionEvent evt) {                                                   
         // TODO add your handling code here:
-        RegitrarVehiculoView v = new RegitrarVehiculoView();
-        v.setVisible(true);
+        registrar.setVisible(true);
     }                                                  
 
     private void jMenuItemListarActionPerformed(java.awt.event.ActionEvent evt) {                                                
         // TODO add your handling code here:
-        ListarVehiculosView v = new ListarVehiculosView();
-        v.setVisible(true);
+        listar.setVisible(true);
     }                                               
 
     /**
