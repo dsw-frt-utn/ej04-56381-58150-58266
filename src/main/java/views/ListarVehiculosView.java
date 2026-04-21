@@ -7,7 +7,7 @@ import java.util.Map;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.table.TableModel;
 
-public class ListarVehiculosView extends javax.swing.JFrame {
+public final class ListarVehiculosView extends javax.swing.JFrame {
 
     /**
      * Creates new form ListarAnimalesView
